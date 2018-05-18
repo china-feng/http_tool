@@ -1,0 +1,12 @@
+{
+    "name": "china-feng/http_tool",
+    "description": "http tool",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "china-feng",
+            "email": "1140713834@qq.com"
+        }
+    ],
+    "require": {}
+}
